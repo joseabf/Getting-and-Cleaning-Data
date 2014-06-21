@@ -9,7 +9,11 @@ USE OF SCRIPTS
 FILES
 
 README.TXT - this file
+
 run_analysis.R - scripts
+
 CodeBook.md - code book of tidy data
+
 getting_data_project.csv - tidy data in .csv format
+
 data_aggregate.csv - tidy data point 5 in .csv format 
